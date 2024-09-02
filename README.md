@@ -1,4 +1,4 @@
-# PolyBridge
+# Sepolia-Amoy-Bridge
 
 ## Project Overview
 
@@ -57,13 +57,13 @@ After installation, add your private key to the file: .env.example => PRIVATE_KE
 
 * Lack of SepoliaETH: If you don’t have SepoliaETH, visit [SepoliaPoW](https://sepolia-faucet.pk910.de/). If you're still experiencing issues, feel free to contact me.
 
-For any difficulties or errors, I'm available to assist. Reach out to me at amarnath759498@gmail.com.
+For any difficulties or errors, I'm available to assist. Reach out to me at naveenvinu5638@gmail.com.
 
 ## Authors
 
 ### Contributor:
-- Shadow (Amar)
-- Contact: [Naveen](mailto:amarnath759498@gmail.com)
+- naveen
+- Contact: [Naveen](mailto:naveenvinu5638@gmail.com)
 
 ## License
 
